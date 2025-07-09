@@ -38,7 +38,6 @@
 - Deployed RAG for context-aware recommendations
 
 🛠️ Tech: GPT-4o, RAG, OCR, React, FastAPI, PostgreSQL  
-📸 _[Insert GIF or Screenshot here if available]_
 
 ---
 
@@ -64,7 +63,6 @@ Perfect for UI/UX practice and design prototyping.
 ---
 
 ## 🏅 Certifications
-
 - 🟢 Big-O Green: Elementary Algorithms (2021)
 - 🔵 Big-O Blue: Intermediate Algorithms (2024)
 - 🟠 Big-O Orange: Advanced Algorithms (2024)
