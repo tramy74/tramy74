@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm My (Trà My)</h1>
 <p align="center">
-  🌟 Final-year Software Engineering Student <br/>
+  🌟 Fresher Software Engineering <br/>
   💻 Passionate about Web Development & AI <br/>
   🚀 Eager to learn, build and collaborate on meaningful tech projects
 </p>
@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm currently studying Software Engineering at Ho Chi Minh City Pedagogical University (2021–2025)
-- 👩‍💻 Strong in **ReactJS**, **FastAPI**, and full-stack web development
-- 🤖 Built an AI-powered chatbot using **GPT-4o**, **RAG**, **Vector Embeddings**, and **OCR**
-- 🎯 Always looking to grow through challenges, collaboration, and real-world projects
+- I am a fresher Software Engineer, eager to apply my skills in real-world projects and continuously learn in a dynamic environment
+- Strong in **ReactJS**, **FastAPI**, and full-stack web development
+- Built an AI-powered chatbot using **GPT-4o**, **RAG**, **Vector Embeddings**, and **OCR**
+- Always looking to grow through challenges, collaboration, and real-world projects
 
 ---
 
